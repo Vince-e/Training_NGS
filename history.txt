@@ -1,0 +1,1000 @@
+ 1024  cd fieldbioinformatics/
+ 1025  ls
+ 1026  conda env create -f environment.yml
+ 1027  conda activate artic
+ 1028  conda info --envs
+ 1029  mamba
+ 1030  conda install mamba
+ 1031  cd ..
+ 1032  ls
+ 1033  cd fieldbioinformatics-1.2.2\(1\)/
+ 1034  ls
+ 1035  conda env create -f environment.yml
+ 1036  ls
+ 1037  cd fieldbioinformatics-1.2.2/
+ 1038  ls
+ 1039  conda env create -f environment.yml
+ 1040  conda activate artic
+ 1041  python setup.py install
+ 1042  artic -v
+ 1043  ./test-runner.sh medaka
+ 1044  ls
+ 1045  conda install python=3.8
+ 1046  sudo apt update && sudo apt upgrade -y
+ 1047  sudo apt upgrade
+ 1048  wget https://github.com/conda-forge/miniforge/releases/latest/download/
+ 1049  Mambaforge-Linux-x86_64.sh
+ 1050  wget https://github.com/conda-forge/miniforge/releases/latest/download/Mambaforge-Linux-x86_64.sh
+ 1051  ls
+ 1052  chmod +x Mambaforge-Linux-x86_64.sh
+ 1053  ls
+ 1054  ./Mambaforge-Linux-x86_64.sh or bash Mambaforge-Linux-x86_64.sh
+ 1055  python App.py
+ 1056  wd
+ 1057  pwd
+ 1058  gunzip -r *
+ 1059  mamba activate artic
+ 1060  gunzip -r *
+ 1061  python App.py
+ 1062  mamba
+ 1063  git clone https://github.com/artic-network/fieldbioinformatics
+ 1064  ls
+ 1065  cd bioinformatics
+ 1066  cd fieldbioinformatics
+ 1067  ls
+ 1068  mamba create -n artic python=3.9.15
+ 1069  mamba activate artic
+ 1070  mamba install conda-libmamba-solver
+ 1071  mamba install artic-porechop=0.3.2pre artic-tools=0.2.6 longshot=0.4.5 bcftools=1.17 biopython=1.81 bwa=0.7.17 clint=0.5.1 htslib=1.17 libcurl
+ 1072  mamba install medaka=1.8.0 minimap2=2.26 multiqc=1.15 muscle=3.8 nanopolish=0.14.0 pandas=2.0.3 pysam=0.21.0
+ 1073  mamba install pytest pyvcf=0.6.8 pyfaidx=0.6.0 requests=2.31.0 samtools=1.17 tqdm=4.66.1 keras-preprocessing=1.1.2
+ 1074  mamba install artic-porechop=0.3.2pre artic-tools=0.2.6 longshot=0.4.5 bcftools=1.17 biopython=1.81 bwa=0.7.17 clint=0.5.1 htslib=1.17 libcurl
+ 1075  mamba install artic-porechop=0.3.2pre artic-tools=0.2.6 longshot=0.4.5 bcftools=1.17 biopython=1.81 bwa=0.7.17 clint=0.5.1 htslib=1.17
+ 1076  mamba install artic-porechop=0.3.2pre artic-tools=0.2.6 longshot=0.4.5 bcftools=1.17 biopython=1.81 bwa=0.7.17 clint=0.5.1 htslib=1.17 icu
+ 1077  mamba install artic-porechop=0.3.2pre artic-tools=0.2.6 longshot=0.4.5 bcftools=1.17 biopython=1.81 bwa=0.7.17 clint=0.5.1 htslib=1.17 icu=67.1
+ 1078  mamba install artic-porechop=0.3.2pre artic-tools=0.2.6 longshot=0.4.5 bcftools=1.17 biopython=1.81 bwa=0.7.17 clint=0.5.1 htslib=1.17 boost-cpp
+ 1079  mamba install artic-porechop=0.3.2pre artic-tools=0.2.6 longshot=0.4.5 bcftools=1.17 biopython=1.81 bwa=0.7.17 clint=0.5.1 htslib=1.17 boost-cpp i
+ 1080  mamba install artic-porechop=0.3.2pre artic-tools=0.2.6 longshot=0.4.5 bcftools=1.17 biopython=1.81 bwa=0.7.17 clint=0.5.1 htslib=1.17 libmambapy
+ 1081  mamba install boost-cpp=1.70.0
+ 1082  mamba install icu
+ 1083  mamba install icu=67.1
+ 1084  mamba install icu=64.2
+ 1085  mamba install icu=58.2
+ 1086  mamba install icu=58.2.0
+ 1087  mamba install artic-tools=0.2.6
+ 1088  mamba install artic-porechop=0.3.2pre longshot=0.4.5 bcftools=1.17 biopython=1.81 bwa=0.7.17 clint=0.5.1 htslib=1.17
+ 1089  mamba install artic-tools
+ 1090  python setup.py install
+ 1091  artic -v
+ 1092  bash test-runner.sh nanopolish
+ 1093  bash test-runner.sh medaka
+ 1094  lsd
+ 1095  ls
+ 1096  rm -r tmp
+ 1097  bash test-runner.sh medaka
+ 1098  ls
+ 1099  cd desktope/data
+ 1100  cd desktop/top
+ 1101  cd Desk/top
+ 1102  cd Desktop/data
+ 1103  cd 
+ 1104  cd Desktop/data
+ 1105  ls
+ 1106  cd barcode04
+ 1107  ls
+ 1108  cd
+ 1109  cd..
+ 1110  cd Desktop/data
+ 1111  gunzip -r *
+ 1112  ls
+ 1113  ls barcode04
+ 1114  ls barcode03
+ 1115  ls
+ 1116  cd fieldbioinforatics/
+ 1117  ls
+ 1118  cd ..
+ 1119  ls
+ 1120  cd fieldbioinformatics/
+ 1121  ls
+ 1122  pip install customtkinter
+ 1123  cd Artic_v2
+ 1124  ls
+ 1125  python App.py
+ 1126  cd utils/
+ 1127  ll
+ 1128  chmod +x runner.sh peace_1.sh 
+ 1129  ll
+ 1130  cd ..
+ 1131  python App.py
+ 1132  mamba activate artic
+ 1133  gunzip -r *
+ 1134  .. cd fieldbioinformatics
+ 1135  python App.py
+ 1136  p wd
+ 1137  pwd
+ 1138  mamba activate artic
+ 1139  gunzip -r *
+ 1140  cd 
+ 1141  ls
+ 1142  cd fieldbioinformatics/
+ 1143  ls
+ 1144  cd Artic_v2/
+ 1145  ls
+ 1146  cd Artic_v2/
+ 1147  ls
+ 1148  python App.py
+ 1149  pwd
+ 1150  mamba activate Artic
+ 1151  mamba activate artic
+ 1152  gunzip -r *
+ 1153  cd
+ 1154  ls
+ 1155  cd fieldbioinformatics/
+ 1156  ls
+ 1157  cd Artic_v2/
+ 1158  paython App.py
+ 1159  python App.py
+ 1160  mamba activate Artic
+ 1161  conda activate Artic
+ 1162  ls
+ 1163  cd Downloads/
+ 1164  ls
+ 1165  sudo dpkg -i mega_11.0.13-1_amd64.deb 
+ 1166  sudo apt install libgconf=2.4
+ 1167  sudo apt install libgconf-2-4
+ 1168  sudo apt --fix-broken install
+ 1169  sudo dpkg -i mega_11.0.13-1_amd64.deb 
+ 1170  mamba activate Artic
+ 1171  conda activate artic
+ 1172  mamba activate artic
+ 1173  gunzip -r *
+ 1174  mamba activate artic
+ 1175  gunzip -r *
+ 1176  mamba activate artic
+ 1177  cd
+ 1178  ls
+ 1179  cd fieldbioinformatics/
+ 1180  ls
+ 1181  cd Artic_v2/
+ 1182  paython .App .py
+ 1183  python App.py
+ 1184  wget https://github.com/conda-
+ 1185  forge/miniforge/releases/latest/download/Mambaforge-Linux-x86_64.sh
+ 1186  wget https://github.com/condaforge/miniforge/releases/latest/download/Mambaforge-Linux-x86_64.sh
+ 1187  wget https://github.com/conda-forge/miniforge/releases/latest/download/Mambaforge-Linux-x86_64.sh
+ 1188  chmod +x Mambaforge-Linux-x86_64.sh
+ 1189  ./Mambaforge-Linux-x86_64.sh or bash Mambaforge-Linux-x86_64.sh
+ 1190  mamba activate artic
+ 1191  gunzip -r *
+ 1192  mamba activate artic
+ 1193  python App.py
+ 1194  pwd
+ 1195  PWD
+ 1196  pwd
+ 1197  mamba activate artic
+ 1198  ls
+ 1199  .. cd
+ 1200  cd ..
+ 1201  ls
+ 1202  cd
+ 1203  ls
+ 1204  cd fieldbioinformatics/
+ 1205  ls
+ 1206  cd Artic_v2/
+ 1207  LS
+ 1208  git clone https://github.com/artic-network/fieldbioinformatics
+ 1209  cd fieldbioinformatics/
+ 1210  mamba create -n artic python=3.9.15
+ 1211  mamba activate artic
+ 1212  mamba install conda-libmamba-solver
+ 1213  mamba install artic-porechop=0.3.2pre artic-tools longshot=0.4.5 bcftools=1.17 biopython=1.81 bwa=0.7.17 clint=0.5.1 htslib=1.17
+ 1214  mamba install medaka=1.8.0 minimap2=2.26 multiqc=1.15 muscle=3.8 nanopolish=0.14.0 pandas=2.0.3 pysam=0.21.0
+ 1215  mamba install pytest pyvcf=0.6.8 pyfaidx=0.6.0 requests=2.31.0 samtools=1.17 tqdm=4.66.1 keras-preprocessing=1.1.2
+ 1216  python setup.py install
+ 1217  artic -v
+ 1218  bash test-runner.sh nanopolish
+ 1219  bash test-runner.sh medaka
+ 1220  python App.py
+ 1221  ls
+ 1222  cd artic
+ 1223  bash test-runner.sh medaka
+ 1224  ls
+ 1225  cd ..
+ 1226  ls
+ 1227  bash test-runner.sh medaka
+ 1228  ls
+ 1229  cd Artic_v2/
+ 1230  python App.py
+ 1231  CD App.py 
+ 1232  mamba activate artic
+ 1233  python App.py
+ 1234  pip install customtkinter
+ 1235  python App.py
+ 1236  python setup.py install
+ 1237  artic -v
+ 1238  python App.py
+ 1239  mamba install medaka=1.8.0 minimap2=2.26 multiqc=1.15 muscle=3.8 nanopolish=0.14.0 pandas=2.0.3 pysam=0.21.0
+ 1240  mamba avtivate artic
+ 1241  mamba activate artic
+ 1242  python App.py
+ 1243  ls
+ 1244  cd utils/
+ 1245  ls
+ 1246  chmod +x peace_1.sh runner.sh 
+ 1247  ls
+ 1248  cd ..
+ 1249  python App.py
+ 1250  mamba actiavte artic
+ 1251  pwd
+ 1252  mamba activate artic
+ 1253  cd
+ 1254  ls
+ 1255  cd fieldbioinformatics/
+ 1256  ls
+ 1257  cd Artic_v2/
+ 1258  python App.py
+ 1259  mamba activate artic
+ 1260  cd
+ 1261  ls
+ 1262  cd fieldbioinformatics/
+ 1263  ls
+ 1264  cd Artic_v2/
+ 1265  python App.py
+ 1266  LS
+ 1267  cd
+ 1268  ..cd
+ 1269  cd ..
+ 1270  ls
+ 1271  cd Downloads/
+ 1272  ls
+ 1273  sudo dpkg -i epi2me_5.1.2_amd64.deb
+ 1274  sudo apt install curl
+ 1275  sudo dpkg -i epi2me_5.1.2_amd64.deb
+ 1276  sudo apt update
+ 1277  sudo apt install -y docker.io
+ 1278  sudo usermod -aG docker ${USER}
+ 1279  sudo systemctl restart docker
+ 1280  pwd
+ 1281  ls -l
+ 1282  cd ~
+ 1283  pwd
+ 1284  ls -l
+ 1285  cd ~
+ 1286  cd Desktop
+ 1287  ls -l
+ 1288  cd workshop
+ 1289  ls -l
+ 1290  cd Desktop/KELCH-13_RENAMED/
+ 1291  mv ON903250.1.ab1 ON903250.1.fasta
+ 1292  ls
+ 1293  cd Desktop/KELCH-13_RENAMED/
+ 1294  ls
+ 1295  rm KCH-1_A08.TXT 
+ 1296  mv WRPF* *.fasta
+ 1297  mv WRPF* ./*.fasta
+ 1298  mv *.TXT *.fasta 
+ 1299  mv *.TXT ./*.fasta 
+ 1300  for file in *.TXT for file in *.TXT
+ 1301  mv *.txt *.fasta
+ 1302  #!/bin/bash
+ 1303  for file in *.txt; do     mv -- "$file" "${file%.txt}.fasta"; done
+ 1304  for file in *.TXT; do     mv -- "$file" "${file%.TXT}.fasta"; done
+ 1305  ls
+ 1306  bwa index ON903250.1.fasta  # Index the reference genome
+ 1307  bwa mem ON903250.1.fasta sequences.fasta > aligned.sam  # Align the sequences to the reference
+ 1308  sudo apt install bwa
+ 1309  clear
+ 1310  cat WRPF* > allconsensus_kelch-13.fasta
+ 1311  ls
+ 1312  head -n 10  allconsensus_kelch-13.fasta 
+ 1313  nano allconsensus_kelch-13.fasta 
+ 1314  mafft allconsensus_kelch-13.fasta 
+ 1315  ls
+ 1316  bwa index ON903250.1.fasta
+ 1317  bwa mem ON903250.1.fasta allconsensus_kelch-13.fasta > aligned_kelch-13.sam  # Align the sequences to the reference
+ 1318  sudo apt install bwa
+ 1319  ps aux | grep unattended-upgr
+ 1320  sudo kill -9 6927
+ 1321  sudo rm /var/lib/dpkg/lock-frontend
+ 1322  sudo apt install bwa
+ 1323  clear
+ 1324  mkdir gdelta_project
+ 1325  pwd
+ 1326  ls
+ 1327  cd desktop
+ 1328  pwd
+ 1329  cd desktop
+ 1330  cd /home/bioinformatics-13/
+ 1331  pwd
+ 1332  cd ../..
+ 1333  pwd
+ 1334  ls
+ 1335  pwd
+ 1336  ls
+ 1337  ls -l
+ 1338  q
+ 1339  pwd
+ 1340  ls
+ 1341  mkdir Mimi
+ 1342  ls
+ 1343  mkdir -p Mimi/abena/
+ 1344  ls Mimi
+ 1345  ls
+ 1346  ls Mimi
+ 1347  cd ..
+ 1348  cd /home/bioinformatics-13/Mimi/
+ 1349  cd ./abena
+ 1350  rmdir abena
+ 1351  cd Mimi
+ 1352  cd .
+ 1353  cd ..
+ 1354  rmdir Mimi
+ 1355  rmdir Mimi/
+ 1356  cd ..
+ 1357  ls
+ 1358  rmdir Mimi
+ 1359  cd ..
+ 1360  cd ../..
+ 1361  ls
+ 1362  cd home
+ 1363  ls
+ 1364  cd bioinformatics-13/
+ 1365  ls
+ 1366  cd Mimi
+ 1367  ls
+ 1368  rmdir abena
+ 1369  cd ..
+ 1370  cd Desktop/
+ 1371  mkdir Mimi
+ 1372  mv Mimi mimitraining
+ 1373  ls
+ 1374  cd .
+ 1375  cd ..
+ 1376  pwd
+ 1377  cd ../..
+ 1378  cd Desktop
+ 1379  cd home
+ 1380  cd bioinformatics-13/
+ 1381  cd Desktop
+ 1382  pwd
+ 1383  mkdir MIMI
+ 1384  LS
+ 1385  ls
+ 1386  mkdir -p MIMI/abena/
+ 1387  ls
+ 1388  mkdir -p MIMI/abena/
+ 1389  pwd
+ 1390  ls
+ 1391  mkdir Mimi
+ 1392  mkdir yaa
+ 1393  ls
+ 1394  mkdir -p yaa/akua/
+ 1395  ls
+ 1396  cd yaa
+ 1397  ls
+ 1398  cd.
+ 1399  cd .
+ 1400  cd ..
+ 1401  cd yaa
+ 1402  rmdir abena
+ 1403  rmdir akua
+ 1404  ls
+ 1405  cd ..
+ 1406  rmdir yaa
+ 1407  ls
+ 1408  pwd
+ 1409  ls -l
+ 1410  rm/fieldbioinformatics/
+ 1411  rm fieldbioinformatics
+ 1412  ls -l
+ 1413  rm -r 
+ 1414  rm -r fieldbioinformatics/
+ 1415  ls
+ 1416  conda
+ 1417  rm -r mambaforge/
+ 1418  ls
+ 1419  conda
+ 1420  wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+ 1421  ls
+ 1422  chmod +x Miniconda3-latest-Linux-x86_64.sh
+ 1423  ls
+ 1424  bash Miniconda3-latest-Linux-x86_64.sh
+ 1425  pwd
+ 1426  cd Downloads/In-House\ Sequencing\ \&\ Bioinformatics\ Training\ -\ EQA-20240328T094426Z-001/
+ 1427  ls
+ 1428  cd ..
+ 1429  cd -
+ 1430  cd In-House\ Sequencing\ \&\ Bioinformatipwd
+ 1431  ls -l
+ 1432  ls
+ 1433  ls / Document/ Ella/ Equipment log-in sheet/
+ 1434  ls / Document/ Ella/ Equipment LOG-IN sheets 1/
+ 1435  cd ./Document/ Ella/ /home/bioinformatics-13/Documents/Ella/Mgt-007-1.0 Record Control.pdf/
+ 1436  ls / Document/ Ella/ Mgt-007-1.0 Record Control.pdf/
+ 1437  cd document
+ 1438  cd .
+ 1439  ls
+ 1440  cd Documents/Ella/
+ 1441  cd./../Downloads/
+ 1442  cd ./
+ 1443  cd ./../
+ 1444  cd ./../ Downloads/
+ 1445  cd ./
+ 1446  cd. /../
+ 1447  cd ../
+ 1448  ls
+ 1449  cd Desktop/
+ 1450  cd managerial sops/
+ 1451  cd ../
+ 1452  clear
+ 1453  Touch sunny.txt
+ 1454  touch sunny.txt
+ 1455  ls
+ 1456  cd sunny.txt
+ 1457  ls
+ 1458  pwd
+ 1459  mkdir Mimi
+ 1460  ls
+ 1461  cd Mimi
+ 1462  mkdir Outer
+ 1463  cd Outer
+ 1464  mkdir inner
+ 1465  cd inner
+ 1466  cd Outer
+ 1467  Cd /
+ 1468  cd/Outer/Mimi/
+ 1469  cd .
+ 1470  cd ./..
+ 1471  cd ../../
+ 1472  cd Mimi
+ 1473  ls
+ 1474  cd Outer
+ 1475  cd ../
+ 1476  cd MImi
+ 1477  Cd Mimi
+ 1478  cd Mimi
+ 1479  cd Documents
+ 1480  cd ../Documents/
+ 1481  cd ../Mimi/
+ 1482  cd ./Outer/
+ 1483  cd ../../ Documents
+ 1484  cd ./../Documents/
+ 1485  cd../Documents/
+ 1486  cd ../Documents/
+ 1487  cd ../
+ 1488  cd Mimi
+ 1489  cd Outer
+ 1490  cd ../../Documents/
+ 1491  cd ../Mimi/
+ 1492  cd ../
+ 1493  cd /
+ 1494  pwd
+ 1495  cd ~
+ 1496  cd
+ 1497  cd ~
+ 1498  pwd
+ 1499  cd
+ 1500  pwd
+ 1501  cd Mimi
+ 1502  cd ~
+ 1503  cd
+ 1504  cd Mimi
+ 1505  cd OUter
+ 1506  cd Outer
+ 1507  ls ../
+ 1508  ls ../../
+ 1509  cd~
+ 1510  cd Documents
+ 1511  ls -l
+ 1512  ls -R
+ 1513  Man ls
+ 1514  man ls
+ 1515  q
+ 1516  cd ../
+ 1517  cd Mimi
+ 1518  cd Outer
+ 1519  cd inner
+ 1520  rmdir inner
+ 1521  ls
+ 1522  cd ../
+ 1523  cd ..
+ 1524  rmdir Mimi
+ 1525  ls
+ 1526  cd Outer
+ 1527  ls
+ 1528  cd inner
+ 1529  rmdir inner/
+ 1530  ls
+ 1531  cd../..
+ 1532  cd ../../
+ 1533  cd ../
+ 1534  mkdir Andy
+ 1535  ls
+ 1536  rmdir Andy
+ 1537  ls
+ 1538  git clone https://github.com/aresti/primalscheme.git primalscheme
+ 1539  ls
+ 1540  cdprimalscheme
+ 1541  cd primalscheme
+ 1542  ls
+ 1543  python3 -m venv venv
+ 1544  source venv/bin/activate
+ 1545  pip install 
+ 1546  pip install .
+ 1547  pip3 install .
+ 1548  pip --version
+ 1549  ls
+ 1550  rm -r primalscheme
+ 1551  ls
+ 1552  python3 -m venv /path/to/primal-venv
+ 1553  source /path/to/primal-venv/bin/activate
+ 1554  python3 -m venv ~/primal-venv
+ 1555  source ~/primal-venv/bin/activate
+ 1556  pip install primalscheme
+ 1557  ls
+ 1558  cd primalscheme-1.3.2/
+ 1559  ls
+ 1560  python3 -m venv venv
+ 1561  source venv/bin/activate
+ 1562  pip install .
+ 1563  pip update
+ 1564  python -m pip install --upgrade pip
+ 1565  cd ..
+ 1566  cd 
+ 1567  conda activate
+ 1568  python3 -m venv ./
+ 1569  python3 -m venv ./venv
+ 1570  source ./venv/bin/activate
+ 1571  pip install primalscheme
+ 1572  pip3 install primalscheme
+ 1573  sudo apt update
+ 1574  sudo apt upgrade
+ 1575  ssh student1@10.27.7.13
+ 1576  pwd
+ 1577  cd Downloads
+ 1578  ls
+ 1579  clear
+ 1580  ll
+ 1581  rsync -azhhp student1@10.27.13:home/student1/ONT/NanoPlot-report.html .
+ 1582  rsync -azhhp student1@10.27.7.13:home/student1/ONT/NanoPlot-report.html .
+ 1583  rsync -azhhp student1@10.27.7.13:home/student1/ONT/NanoPlot-report.html
+ 1584  ls
+ 1585  rsync -azhhp student1@10.27.7.13:home/student1/ONT/NanoPlot-report.html .
+ 1586  rsync -azhp student1@10.27.7.13:home/student1/ONT/NanoPlot-report.html .
+ 1587  ls
+ 1588  open .
+ 1589  rsync -azhp student1@10.27.7.13:/home/student1/ONT/NanoPlot-report.html .
+ 1590  ls
+ 1591  open NanoPlot-report.html 
+ 1592  fastqc --threads 4 barcode30.fastq.gz
+ 1593  ssh student1@10.27.7.13
+ 1594  cd Download
+ 1595  cd Downloads
+ 1596  rsync -azhp student1@10.27.7.13:/home/student1/ONT/barcode30_fastqc.html .
+ 1597  open barcode30_fastqc.html 
+ 1598  rsync -azhp student1@10.27.7.13:/home/student1/ONT/multiqc_report.html .
+ 1599  ls multiqc_report.html 
+ 1600  open multiqc_report.html 
+ 1601  ssh student1@10.27.7.13
+ 1602  12
+ 1603  cd Downloads/
+ 1604  rsync -azhp student1@10.27.7.13:/home/student1/04_QC/G26832_R2_fastqc.html .
+ 1605  ll
+ 1606  ll -lhrt
+ 1607  open G26832_R2_fastqc.html 
+ 1608  rsync -azhp student1@10.27.7.13:/home/student1/04_QC/G26832_fastp.html .
+ 1609  open fastp.html
+ 1610  open fastp.html 
+ 1611  open G26832_fastp.html 
+ 1612  history
+ 1613  rsync -azhp student1@10.27.7.13:/home/student1/ONT/multiqc_report.html
+ 1614  ls
+ 1615  ll -lhrt
+ 1616  open multiqc_report.html 
+ 1617  rsync -azhp student1@10.27.7.13:/home/student1/ONT/multiqc_report.html .
+ 1618  open multiqc_report.html 
+ 1619  mamba ativate figtree
+ 1620  mamba activate figtree
+ 1621  figtree
+ 1622  rsync -azhp student1@10.27.7.13:/home/student1/05_mapping/aligned_pseudogenomes_snps.fas.treefile .
+ 1623  rsync -azhp student1@10.27.7.13:/home/student1/05_mapping/aligned_pseudogenomes_snps.fas.treefile 
+ 1624  pwd
+ 1625  rsync -azhp student1@10.27.7.13:/home/student1/05_mapping/aligned_pseudogenomes_snps.fas.treefile 
+ 1626  rsync -azhp student1@10.27.7.13:/home/student1/05_mapping/short_read_mapping_MTB/aligned_pseudogenomes_snps.fas.treefile 
+ 1627  ll -lhrt
+ 1628  rsync -azhp student1@10.27.7.13:/home/student1/05_mapping/short_read_mapping_MTB/aligned_pseudogenomes_snps.fas.treefile .
+ 1629  open aligned_pseudogenomes_snps.fas.treefile 
+ 1630  conda env list
+ 1631  mamba install -n figtree figtree
+ 1632  conda install figtree
+ 1633  figree
+ 1634  conda deactivate
+ 1635  conda env list
+ 1636  conda activate figtree
+ 1637  mamba install -n figtree figtree
+ 1638  mamba install figtree -n figtree
+ 1639  conda install figtree
+ 1640  figtree
+ 1641  conda activate figtree
+ 1642  mamba create -n figtree
+ 1643  mamba activate  figtree
+ 1644  mamba init
+ 1645  mamba install figtree
+ 1646  figtree
+ 1647  mamba activate  figtree
+ 1648  conda activate figtree
+ 1649  figtree
+ 1650  mamba install figtree
+ 1651  figtree
+ 1652  clear
+ 1653  rsync -azhp student1@10.27.7.13:/home/student1/10_phylogenetics/aligned_pseudogenomes_snps.fas.treefile
+ 1654  ll -lhrt
+ 1655  rsync -azhp student1@10.27.7.13:/home/student1/10_phylogenetics/ .
+ 1656  rsync -azhp student1@10.27.7.13:/home/student1/10_phylogenetics .
+ 1657  figtree
+ 1658  cd /.
+ 1659  ssh student1@10.27.7.13
+ 1660  clear
+ 1661  ssh student1@10.27.7.13
+ 1662  clear
+ 1663  ssh student1@10.27.7.13
+ 1664  clear
+ 1665  ls
+ 1666  clear
+ 1667  ssh student1@10.27.7.13
+ 1668  clear4
+ 1669  clear
+ 1670  ssh student1@10.27.7.13
+ 1671  ls
+ 1672  cd ~
+ 1673  cd Downloads/
+ 1674  scp student1@10.27.7.13/home/exercise/data/multiqc_report.html .
+ 1675  scp student1@10.27.7.13:~/exercise/data/multiqc_report.html .
+ 1676  scp student1@10.27.7.13:~/exercise/data/SRR10223851 SRR10223852 SRR10223853 SRR10223854 SRR10223855 SRR10223865 SRR10223876 SRR10223887 SRR10223897 SRR10223898 SRR10223899 .
+ 1677  scp -r student1@10.27.7.13:~/exercise/data/SRR10223851 SRR10223852 SRR10223853 SRR10223854 SRR10223855 SRR10223865 SRR10223876 SRR10223887 SRR10223897 SRR10223898 SRR10223899 .
+ 1678  scp -r student1@10.27.7.13:~/exercise/data/SRR10223851 .
+ 1679  scp -r student1@10.27.7.13:~/exercise/data/SRR10223852 .
+ 1680  scp -r student1@10.27.7.13:~/exercise/data/SRR10223853 .
+ 1681  scp -r student1@10.27.7.13:~/exercise/data/SRR10223854 .
+ 1682  scp -r student1@10.27.7.13:~/exercise/data/SRR10223855 .
+ 1683  scp -r student1@10.27.7.13:~/exercise/data/SRR10223865 .
+ 1684  scp -r student1@10.27.7.13:~/exercise/data/SRR10223876 .
+ 1685  scp -r student1@10.27.7.13:~/exercise/data/SRR10223887 .
+ 1686  scp -r student1@10.27.7.13:~/exercise/data/SRR10223897 .
+ 1687  scp -r student1@10.27.7.13:~/exercise/data/SRR10223898 .
+ 1688  scp -r student1@10.27.7.13:~/exercise/data/SRR10223899 .
+ 1689  scp -r student1@10.27.7.13:~/exercise/results/snipstes/filtered_alignment.fas.treefile .
+ 1690  scp  student1@10.27.7.13:~/exercise/results/snipstes/filtered_alignment.fas.treefile .
+ 1691  scp  student1@10.27.7.13:~/exercise/results/snpstes/filtered_alignment.fas.treefile .
+ 1692  scp  student1@10.27.7.13:~/exercise/results/snpsites/filtered_alignment.fas.treefile .
+ 1693  figtree
+ 1694  clear
+ 1695  scp  student1@10.27.7.13:~/exercise/data/SRR10223851.fas SRR10223852.fas SRR10223853.fas SRR10223854.fas SRR10223855.fas SRR10223865.fas SRR10223876.fas SRR10223887.fas SRR10223897.fas SRR10223898.fas SRR10223899.fas . 
+ 1696  scp  student1@10.27.7.13:~/exercise/data/SRR10223852.fas . 
+ 1697  scp  student1@10.27.7.13:~/exercise/data/SRR10223853.fas . 
+ 1698  scp  student1@10.27.7.13:~/exercise/data/SRR10223854.fas . 
+ 1699  scp  student1@10.27.7.13:~/exercise/data/SRR10223855.fas . 
+ 1700  scp  student1@10.27.7.13:~/exercise/data/SRR10223865.fas . 
+ 1701  scp  student1@10.27.7.13:~/exercise/data/SRR10223876.fas . 
+ 1702  scp  student1@10.27.7.13:~/exercise/data/SRR10223887.fas . 
+ 1703  scp  student1@10.27.7.13:~/exercise/data/SRR10223897.fas . 
+ 1704  scp  student1@10.27.7.13:~/exercise/data/SRR10223898.fas . 
+ 1705  scp  student1@10.27.7.13:~/exercise/data/SRR10223899.fas . 
+ 1706  mkdir SOP yet to be printed/
+ 1707  ls
+ 1708  mkdir SOPSYP
+ 1709  ls
+ 1710  cd ..
+ 1711  ls
+ 1712  cd bioinformatics-13/
+ 1713  pwd
+ 1714  gmx
+ 1715  tar xfz gromacs-2024.3.tar.gz 
+ 1716  cd gromacs-2024.3/
+ 1717  mkdir build
+ 1718  cmake .. -DGMX_BUILD_OWN_FFTW=ON -DREGRESSIONTEST_DOWNLOAD=ON
+ 1719  cd build/
+ 1720  cmake .. -DGMX_BUILD_OWN_FFTW=ON -DREGRESSIONTEST_DOWNLOAD=ON
+ 1721  make
+ 1722  make check
+ 1723  make install
+ 1724  sudo make install
+ 1725  source /usr/local/gromacs/bin/GMXRC
+ 1726  gmx
+ 1727  source /usr/local/gromacs/bin/GMXRC
+ 1728  gmx
+ 1729  source /usr/local/gromacs/bin/GMXRC
+ 1730  gmx
+ 1731  pwd
+ 1732  set init = step3_input
+ 1733  set mini_prefix = step4.0_minimization
+ 1734  set equi_prefix = step4.1_equilibration
+ 1735  set prod_prefix = step5_production
+ 1736  set prod_step   = step5
+ 1737  init
+ 1738  gmx 
+ 1739  mpirun -np $NUM_CPU gmx mdrun -ntomp 1
+ 1740  sudo apt install lam-runtime
+ 1741  sudo apt-get install
+ 1742  sudo apt-get update
+ 1743  sudo apt install lam-runtime
+ 1744  gmx
+ 1745  gmx grompp -f ${mini_prefix}.mdp -o ${mini_prefix}.tpr -c ${init}.gro -r ${init}.gro -p topol.top -n index.ndx -maxwarn -1
+ 1746  gmx
+ 1747  source /usr/local/gromacs/bin/GMXRC
+ 1748  gmx
+ 1749  gmx grompp -f step4.0_minimization.mdp -o step4.0_minimization.tpr -c step3_input.gro -r step3_input.gro -p topol.top -n index.ndx
+ 1750  gmx mdrun -v -deffnm step4.0_minimization
+ 1751  pwd
+ 1752  gmx
+ 1753  source /usr/local/gromacs/bin/GMXRC
+ 1754  gmx
+ 1755  gmx grompp -f ${mini_prefix}.mdp -o ${mini_prefix}.tpr -c ${init}.gro -r ${init}.gro -p topol.top -n index.ndx -maxwarn -1
+ 1756  init
+ 1757  $init
+ 1758  init = step3_input
+ 1759  mini_prefix = step4.0_minimization
+ 1760  equi_prefix = step4.1_equilibration
+ 1761  prod_prefix = step5_production
+ 1762  prod_step   = step5
+ 1763  set init = step3_input
+ 1764  set mini_prefix = step4.0_minimization
+ 1765  set equi_prefix = step4.1_equilibration
+ 1766  set prod_prefix = step5_production
+ 1767  set prod_step   = step5
+ 1768  $init
+ 1769  init
+ 1770  gmx grompp -f ${mini_prefix}.mdp -o ${mini_prefix}.tpr -c ${init}.gro -r ${init}.gro -p topol.top -n index.ndx -maxwarn -1
+ 1771  gmx grompp -f step4.0_minimization.mdp -o step4.0_minimization.tpr -c step3_input.gro -r step3_input.gro -p topol.top -n index.ndx
+ 1772  gmx mdrun -v -deffnm step4.1_equilibration
+ 1773  gmx_d mdrun -v -deffnm step4.0_minimization
+ 1774  gmx mdrun -v -deffnm step4.0_minimization
+ 1775  source /usr/local/gromacs/bin/GMXRC
+ 1776  gmx
+ 1777  gmx grompp -f step4.0_minimization.mdp -o step4.0_minimization.tpr -c step3_input.gro -r step3_input.gro -p topol.top -n index.ndx
+ 1778  gmx mdrun -v -deffnm step4.0_minimization
+ 1779  source /usr/local/gromacs/bin/GMXRC
+ 1780  gmx
+ 1781  gmx grompp -f step4.0_minimization.mdp -o step4.0_minimization.tpr -c step3_input.gro -r step3_input.gro -p topol.top -n index.ndx
+ 1782  gmx mdrun -v -deffnm step4.0_minimization
+ 1783  source /usr/local/gromacs/bin/GMXRC
+ 1784  gmx
+ 1785  gmx grompp -f step4.0_minimization.mdp -o step4.0_minimization.tpr -c step3_input.gro -r step3_input.gro -p topol.top -n index.ndx
+ 1786  gmx mdrun -v -deffnm step4.0_minimization
+ 1787  source /usr/local/gromacs/bin/GMXRC
+ 1788  gmx
+ 1789  gmx grompp -f step4.0_minimization.mdp -o step4.0_minimization.tpr -c step3_input.gro -r step3_input.gro -p topol.top -n index.ndx
+ 1790  gmx mdrun -v -deffnm step4.0_minimization
+ 1791  source /usr/local/gromacs/bin/GMXRC
+ 1792  gmx grompp -f step4.0_minimization.mdp -o step4.0_minimization.tpr -c step3_input.gro -r step3_input.gro -p topol.top -n index.ndx
+ 1793  gmx mdrun -v -deffnm step4.0_minimization
+ 1794  source /usr/local/gromacs/bin/GMXRC
+ 1795  gmx grompp -f step4.0_minimization.mdp -o step4.0_minimization.tpr -c step3_input.gro -r step3_input.gro -p topol.top -n index.ndx
+ 1796  gmx mdrun -v -deffnm step4.0_minimization
+ 1797  source /usr/local/gromacs/bin/GMXRC
+ 1798  [200~gmx grompp -f step4.0_minimization.mdp -o step4.0_minimization.tpr -c step3_input.gro -r step3_input.gro -p topol.top -n index.ndx
+ 1799  gmx grompp -f step4.0_minimization.mdp -o step4.0_minimization.tpr -c step3_input.gro -r step3_input.gro -p topol.top -n index.ndx
+ 1800  gmx mdrun -v -deffnm step4.0_minimization
+ 1801  ls 
+ 1802  source /usr/local/gromacs/bin/GMXRC
+ 1803  gmx
+ 1804  gmx grompp -f step4.0_minimization.mdp -o step4.0_minimization.tpr -c step3_input.gro -r step3_input.gro -p topol.top -n index.ndx
+ 1805  gmx mdrun -v -deffnm step4.0_minimization
+ 1806  [200~source /usr/local/gromacs/bin/GMXRC
+ 1807  source /usr/local/gromacs/bin/GMXRC
+ 1808  [200~gmx grompp -f step4.0_minimization.mdp -o step4.0_minimization.tpr -c step3_input.gro -r step3_input.gro -p topol.top -n index.ndx
+ 1809  gmx grompp -f step4.0_minimization.mdp -o step4.0_minimization.tpr -c step3_input.gro -r step3_input.gro -p topol.top -n index.ndx
+ 1810  gmx mdrun -v -deffnm step4.0_minimization
+ 1811  source /usr/local/gromacs/bin/GMXRC
+ 1812  gmx grompp -f step4.0_minimization.mdp -o step4.0_minimization.tpr -c step3_input.gro -r step3_input.gro -p topol.top -n index.ndx
+ 1813  gmx mdrun -v -deffnm step4.0_minimization
+ 1814  sudo apt install autodock
+ 1815  sudo apt update 
+ 1816  sudo apt upgrade
+ 1817  sudo apt-get upgrade
+ 1818  sudo apt update 
+ 1819  [200~sudo nano /etc/apt/sources.list
+ 1820  ~sudo nano /etc/apt/sources.list
+ 1821  sudo nano /etc/apt/sources.list
+ 1822  sudo apt update 
+ 1823  sudo apt-get update
+ 1824  sudo nano /etc/apt/sources.list
+ 1825  [200~sudo nano /etc/apt/sources.list.d/llvm.list
+ 1826  sudo nano /etc/apt/sources.list.d/llvm.list
+ 1827  sudo apt-get update
+ 1828  sudo apt-key del "ROC Key ID"
+ 1829  apt-key list
+ 1830  sudo apt-key del 9386 B48A 1A69 3C5C
+ 1831  curl -sL https://repo.radeon.com/rocm/apt/debian/rocm.gpg.key | sudo gpg --dearmor -o /usr/share/keyrings/rocm-archive-keyring.gpg
+ 1832  wget -O rocm.gpg.key https://repo.radeon.com/rocm/apt/debian/rocm.gpg.key
+ 1833  wget -qO - https://repo.radeon.com/rocm/apt/debian/rocm.gpg.key -O rocm.gpg.key
+ 1834  sudo gpg --dearmor -o /usr/share/keyrings/rocm-archive-keyring.gpg rocm.gpg.key
+ 1835  wget -O rocm.gpg.key https://repo.radeon.com/rocm/apt/debian/rocm.gpg.key
+ 1836  wget -O rocm.gpg.key https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x1a693c5c
+ 1837  sudo adduser temp
+ 1838  sudo  usermod -aG sudo temp
+ 1839  exit
+ 1840  sudo su
+ 1841  sudo userdel temp -f -r
+ 1842  sudo nano /etc/hostname
+ 1843  sudo nano /etc/host
+ 1844  sudo nano /etc/hosts
+ 1845  sudo reboot
+ 1846  pwd
+ 1847  /document/
+ 1848  /movies/
+ 1849  /music/
+ 1850  /firefox/
+ 1851  .
+ 1852  ./
+ 1853  ls
+ 1854  ls Documents
+ 1855  ls -l
+ 1856  ls -a
+ 1857  mkdir
+ 1858  ls
+ 1859  mkdir kofi
+ 1860  ls
+ 1861  pwd
+ 1862  cd Documents/files2/
+ 1863  cd Downloads
+ 1864  pwd
+ 1865  ls
+ 1866  ls -l
+ 1867  cd ..
+ 1868  pwd
+ 1869  rmdir kofi
+ 1870  ls
+ 1871  man ls
+ 1872  cd Downloads
+ 1873  cd ~
+ 1874  pwd
+ 1875  cd Downloads
+ 1876  cd: cd
+ 1877  cd
+ 1878  cd Downloads/include
+ 1879  cd ..
+ 1880  cd Download
+ 1881  cd Downloads
+ 1882  cd
+ 1883  pwd
+ 1884  cd Downloads
+ 1885  cd
+ 1886  history
+ 1887  pseudo poweroff
+ 1888  sudo apt install r-base
+ 1889  sudo apt install netflix
+ 1890  sudo apt install RStudio
+ 1891  sudo apt install rstudio
+ 1892  0
+ 1893  man
+ 1894  man upgrade
+ 1895  mkdir Vince
+ 1896  ls
+ 1897  date
+ 1898  whoami
+ 1899  id
+ 1900  pwd
+ 1901  ls
+ 1902  mkdir Lollipop
+ 1903  ls
+ 1904  ls dir1/ dir2 / dir3
+ 1905  mkdir -p dir1 / dir2 / dir3
+ 1906  ls dir1 / dir2 / dir3
+ 1907  cp Lollipop Vince
+ 1908  cp Lollipop.txt Vince.txt
+ 1909  ls
+ 1910  cp hello.txt hello2.txt
+ 1911  cp dir1.txt dir2.txt
+ 1912  cp dir1 dir2
+ 1913  cp miniconda dir2
+ 1914  cp be dir1
+ 1915  cp Vince desktop
+ 1916  date
+ 1917  library(tidyverse)
+ 1918  home
+ 1919  ls
+ 1920  cd
+ 1921  file/home
+ 1922  Desktop
+ 1923  ls Desktop
+ 1924  pwd
+ 1925  /home
+ 1926  pwd
+ 1927  cd Documents
+ 1928  cd Desktop
+ 1929  ..
+ 1930  ./Desktop
+ 1931  home
+ 1932  cd home
+ 1933  ls
+ 1934  cd home
+ 1935  pwd
+ 1936  ls
+ 1937  ls-l
+ 1938  ls -l
+ 1939  ls -a
+ 1940  ls lh
+ 1941  ls -lh
+ 1942  mkdir Nana_Esi
+ 1943  ls
+ 1944  Nana
+ 1945  ls Downloads
+ 1946  cd Downloads
+ 1947  cd Nana
+ 1948  cd Nana_Esi
+ 1949  ls
+ 1950  pwd
+ 1951  pwd Nana_Esi
+ 1952  clear
+ 1953  cd home
+ 1954  ..
+ 1955  clear
+ 1956  cd /home/destop
+ 1957  cd/home/Desktop
+ 1958  cd ..
+ 1959  Nana_Esi
+ 1960  cd Nana_Esi
+ 1961  cd ..
+ 1962  rmdir Nana_Esi
+ 1963  ls -a
+ 1964  man
+ 1965  man ls
+ 1966  man rmdir
+ 1967  man cd
+ 1968  cd Downloads
+ 1969  cd ~
+ 1970  cd Downloads
+ 1971  cd
+ 1972  cd Downloads/
+ 1973  cd
+ 1974  mkdir Nana
+ 1975  cd Nana_Esi
+ 1976  history
+ 1977  history > history.txt
+ 1978  cat history.txt 
+ 1979  mkdir ESI
+ 1980  mv history.txt ESI
+ 1981  ls ESI
+ 1982  rmdir ESI
+ 1983  rmdir -r ESI
+ 1984  rm -r ESI
+ 1985  ls
+ 1986  rmdir Nana
+ 1987  ls
+ 1988  Nana ls
+ 1989  ctrl A
+ 1990  clear
+ 1991  ssh joamofa@10.27.7
+ 1992  ssh joamofa@10.27.7.7
+ 1993  ssh@joamofa.10.27.7.7
+ 1994  ssh joamofa@10.27.7.7
+ 1995  ssh joamofa@10.27.7.9
+ 1996  cd desktop
+ 1997  mkdir Training
+ 1998  ls
+ 1999  cd Desktop
+ 2000  mkdir Training
+ 2001  sudo apt install git-all
+ 2002  Git
+ 2003  git
+ 2004  cd 
+ 2005  ls
+ 2006  pwd
+ 2007  mdkir Downloads
+ 2008  mkdir Downloads
+ 2009  cd Downloads
+ 2010  ls
+ 2011  sudo apt install ./code_1.96.2-1734607745_amd64.deb 
+ 2012  cd
+ 2013  pwd
+ 2014  ls -a
+ 2015  nano ~/.bashrc
+ 2016  more .bashrc
+ 2017  less ..bashrc
+ 2018  less .bashrc
+ 2019  echo Dear
+ 2020  cd Training
+ 2021  clear
+ 2022  ls
+ 2023  history > history.txt
